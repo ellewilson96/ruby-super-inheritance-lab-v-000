@@ -7,7 +7,7 @@ end
 
 def raise_hand
   super
-  return "Pick me!"*10
+  return "Pick me!"*9
 end
 
 end
